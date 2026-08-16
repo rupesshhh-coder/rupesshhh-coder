@@ -16,6 +16,6 @@ Core Java → OOP → Collections → JDBC → Hibernate → Spring → Spring B
 
 🤝 **Connect with me**
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/rupesshhh-coder)
+[LinkedIn](www.linkedin.com/in/rupesshhh) • [GitHub](https://github.com/rupesshhh-coder)
 
 ⭐ *Code. Learn. Build. Repeat.*
