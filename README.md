@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Rupesh Ghadge
 
-<!--
-**rupesshhh-coder/rupesshhh-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Java Full Stack Developer from India
 
-Here are some ideas to get you started:
+🌱 Currently learning **Spring Boot, REST APIs & Backend Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I enjoy **building applications, solving coding problems & learning new technologies**
+
+🛠️ **Languages & Technologies**
+
+**Java** • **Spring Boot** • **Hibernate** • **JDBC** • **REST APIs**
+**MySQL** • **JavaScript** • **HTML** • **CSS** • **Git** • **GitHub**
+
+📚 **Learning Journey:**
+Core Java → OOP → Collections → JDBC → Hibernate → Spring → Spring Boot → REST APIs
+
+🤝 **Connect with me**
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/rupesshhh-coder)
+
+⭐ *Code. Learn. Build. Repeat.*
