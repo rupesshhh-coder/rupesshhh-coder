@@ -1,20 +1,23 @@
-# Hi 👋, I'm Rupesh 
+<h1 align="center">Hi 👋, I'm Rupesh Ghadge</h1>
 
-### Associate Software Developer 
+<h3 align="center">Associate Software Developer from India</h3>
+
+---
+
+<p align="center">
+  <a href="https://github.com/rupesshhh-coder">GitHub</a> •
+  <a href="https://www.linkedin.com/in/rupesshhh">LinkedIn</a> •
+  <a href="https://rupesshhh-coder.github.io/portfolio/">Portfolio</a>
+</p>
 
 * 💼 Currently working as an **Associate Software Developer**
 * ☕ Focused on **Java & Backend Development**
 * 🌱 Currently learning **Spring Boot, REST APIs & SQL**
-* 🛠️ Building practical web applications using **Java, Spring Boot & MySQL**
-* 🌐 **Portfolio:** [rupesshhh-coder.github.io/portfolio](https://rupesshhh-coder.github.io/portfolio/)
+* 🛠️ Building practical applications using **Java, Spring Boot & MySQL**
 
 ### 🛠️ Skills
 
 **Java • Spring Boot • REST APIs • MySQL • JDBC • Hibernate/JPA • Servlets • JSP • JavaScript • HTML • CSS • Git • GitHub**
-
-### 🤝 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/rupesshhh) • [GitHub](https://github.com/rupesshhh-coder) • [Portfolio](https://rupesshhh-coder.github.io/portfolio/)
 
 ---
 
