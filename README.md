@@ -17,6 +17,33 @@
 
 **Java • Spring Boot • REST APIs • MySQL • JDBC • Hibernate/JPA • Servlets • JSP • JavaScript • HTML • CSS • Git • GitHub**
 
+### 📚 Learning & Practice
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/rupesshhh03">
+    <img src="https://cdn.simpleicons.org/hackerrank" width="40" alt="HackerRank"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/rupesshhh_/">
+    <img src="https://cdn.simpleicons.org/leetcode" width="40" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3profile.com/rupesshhh03/">
+    <img src="https://cdn.simpleicons.org/w3schools" width="40" alt="W3Schools"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.sololearn.com/en/profile/34183771">
+    <img src="https://cdn.simpleicons.org/sololearn" width="40" alt="SoloLearn"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>HackerRank</b> &nbsp; • &nbsp;
+  <b>LeetCode</b> &nbsp; • &nbsp;
+  <b>W3Schools</b> &nbsp; • &nbsp;
+  <b>SoloLearn</b>
+</p>
+
 ---
 
 ⭐ **Code. Learn. Build. Improve.**
