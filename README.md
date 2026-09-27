@@ -1,21 +1,21 @@
-# Hi 👋, I'm Rupesh Ghadge
+# Hi 👋, I'm Rupesh 
 
-### 💻 Java Full Stack Developer from India
+### Associate Software Developer 
 
-🌱 Currently learning **Spring Boot, REST APIs & Backend Development**
+* 💼 Currently working as an **Associate Software Developer**
+* ☕ Focused on **Java & Backend Development**
+* 🌱 Currently learning **Spring Boot, REST APIs & SQL**
+* 🛠️ Building practical web applications using **Java, Spring Boot & MySQL**
+* 🌐 **Portfolio:** [rupesshhh-coder.github.io/portfolio](https://rupesshhh-coder.github.io/portfolio/)
 
-💡 I enjoy **building applications, solving coding problems & learning new technologies**
+### 🛠️ Skills
 
-🛠️ **Languages & Technologies**
+**Java • Spring Boot • REST APIs • MySQL • JDBC • Hibernate/JPA • Servlets • JSP • JavaScript • HTML • CSS • Git • GitHub**
 
-**Java** • **Spring Boot** • **Hibernate** • **JDBC** • **REST APIs**
-**MySQL** • **JavaScript** • **HTML** • **CSS** • **Git** • **GitHub**
+### 🤝 Connect With Me
 
-📚 **Learning Journey:**
-Core Java → OOP → Collections → JDBC → Hibernate → Spring → Spring Boot → REST APIs
+[LinkedIn](https://www.linkedin.com/in/rupesshhh) • [GitHub](https://github.com/rupesshhh-coder) • [Portfolio](https://rupesshhh-coder.github.io/portfolio/)
 
-🤝 **Connect with me**
+---
 
-[LinkedIn](www.linkedin.com/in/rupesshhh) • [GitHub](https://github.com/rupesshhh-coder)
-
-⭐ *Code. Learn. Build. Repeat.*
+⭐ **Code. Learn. Build. Improve.**
