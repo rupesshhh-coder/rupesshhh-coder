@@ -2,8 +2,6 @@
 
 <h3 align="center">Associate Software Developer from India</h3>
 
----
-
 <p align="center">
   <a href="https://github.com/rupesshhh-coder">GitHub</a> •
   <a href="https://www.linkedin.com/in/rupesshhh">LinkedIn</a> •
